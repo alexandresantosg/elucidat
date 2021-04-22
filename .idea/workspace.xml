@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e18a4c47-17dc-428c-99ae-f1bd53d47961" name="Default Changelist" comment="" />
+    <list default="true" id="e18a4c47-17dc-428c-99ae-f1bd53d47961" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ItemFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/ItemFactory.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +14,9 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/crysalead/kahlan" />
@@ -18,6 +24,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1rUkZAqvOtNSnVsE2LHalfWmUc0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,7 +54,7 @@
       <updated>1619038108589</updated>
       <workItem from="1619038109620" duration="6784000" />
       <workItem from="1619045468932" duration="511000" />
-      <workItem from="1619125369375" duration="2194000" />
+      <workItem from="1619125369375" duration="3970000" />
     </task>
     <servers />
   </component>
@@ -63,6 +70,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="279" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1619043419147" />
+    <state x="783" y="422" key="Github.ShareDialog" timestamp="1619128656738">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="783" y="422" key="Github.ShareDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1619128656738" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1619128681374">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1619128681374" />
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1619042437420">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
